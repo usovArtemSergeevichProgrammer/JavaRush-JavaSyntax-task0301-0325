@@ -1,6 +1,6 @@
-Знакомство с Java:
-- Методы
-- Классы
-- Ввод с клавиатуры
-- Работа с IDEA
-- 25 tasks
+Introduction to Java:
+Method
+Class
+Keyboard input
+Working with IDEA
+25 tasks
